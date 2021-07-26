@@ -1,2 +1,1 @@
-# Electronics
-Projects related to IoT and Robotics
+# Projects - IoT and Machine Learning 
